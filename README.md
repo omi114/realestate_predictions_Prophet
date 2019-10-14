@@ -21,6 +21,8 @@ Real estate trends for top 5 cheapest states
 
 ![line chart](https://github.com/omi114/realestate_predictions_Prophet/blob/master/images/Cal_overlayed_predictions.png)
 
+![line chart](https://github.com/omi114/realestate_predictions_Prophet/blob/master/images/predictions_components_1.png)
+
 
 Acknowledgements:
 
